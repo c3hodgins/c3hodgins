@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @c3hodgins
-- 👀 I’m a student studying computer engineering interested in embedded systems.
-- 🌱 I’m currently learning VHDL in my studies, while using much of my free time to enhance my programming proficiency. 
-- At the moment, I am learning the basics of front-end web development, and using javascript for practicing my scripting.
+- 👀 I’m a student studying computer engineering interested in software engineering as well as embedded systems.
